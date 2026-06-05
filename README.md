@@ -1,6 +1,11 @@
-# 8-bit ALU using Verilog
+8bit-ALU-Verilog
 
-Operations:
+8-bit ALU using Verilog HDL
+
+Designed and simulated an 8-bit ALU using Verilog HDL with waveform verification.
+
+Operations Performed
+
 - ADD
 - SUB
 - AND
@@ -10,5 +15,11 @@ Operations:
 - Shift Left
 - Shift Right
 
-Simulation done using EDA Playground and EPWave.# 8bit-ALU-Verilog
-8-bit ALU design and functional simulation using Verilog HDL with waveform verification.
+Tools Used
+
+- EDA Playground
+- EPWave
+
+Description
+
+This project demonstrates RTL design and functional simulation of an 8-bit Arithmetic Logic Unit (ALU). The functionality was verified using a Verilog testbench and waveform analysis.
